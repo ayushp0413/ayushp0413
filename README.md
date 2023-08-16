@@ -3,8 +3,6 @@
 <h1 align="center">Hyy👋 , I'm Ayush Patidar !</h1>
 <programming">A college student having programming love.</h3>
 
-<img align="right"  alt="coding" width"400"  src= "https://images.app.goo.gl/Juf4wzHdzabb9vkV7" />
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0413&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0413" /> </p>
 
