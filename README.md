@@ -3,7 +3,7 @@
 <h1 align="center">Hyy👋 , I'm Ayush Patidar !</h1>
 <programming">A college student having programming love.</h3>
 
-<img align="right"  alt="coding" width"400"  src= "https://www.google.com/search?client=ms-android-oneplus-rvo3&sca_esv=557502889&sxsrf=AB5stBj6wVVnRmYbsDDPvWp4BETlHuGSog:1692204632191&q=coding+gif+image&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiKp_S_0eGAAxXSamwGHdwhDBMQ0pQJegQICxAB&biw=360&bih=690&dpr=3#imgrc=zhjSEq0Xd_DH7M " >
+<img align="right"  alt="coding" width"400"  src= "https://images.app.goo.gl/Juf4wzHdzabb9vkV7" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0413&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0413" /> </p>
