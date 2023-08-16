@@ -1,4 +1,4 @@
-// [![MasterHead](https://images.app.goo.gl/UnqHqAJEdUBq7NGe7)]
+
 
 <h1 align="center">Hyy👋 , I'm Ayush Patidar !</h1>
 <programming">A college student having programming love.</h3>
