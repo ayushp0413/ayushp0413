@@ -1,22 +1,22 @@
 
 
 <h1 align="center">Hyy👋 , I'm Ayush Patidar !</h1>
-<programming">A college student having programming love.</h3>
+<programming">A prefinalist Computer Science Enginerring college student having love towards programming.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0413&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0413" /> </p>
 
-- 🔭 I’m currently working on **HTTP server in C++**
+- 🔭 I’m currently working on **EdTech_MERN_PROJECT**
 
-- 🌱 I’m currently learning **Java , javascript**
+- 🌱 Preparing for **Java Developer and FullStack Developer**
 
-- 💬 Ask me about **C , C++ , Java**
+- 💬 Ask me about **C , C++ , Java, Javascript, ReactJS, NodeJS, MongoDB**
 
 - 📫 How to reach me **ayushpatidar7441@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/__.ayush.__ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.ayush.__ap" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-patidar-62839024b/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="ayush" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayush patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush patidar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayushpatidar7441@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushpatidar7441@gmail.com" height="30" width="40" /></a>
 </p>
