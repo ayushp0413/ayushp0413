@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0413&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0413" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush0413" alt="ayush0413" /></a> </p>
+# <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush0413" alt="ayush0413" /></a> </p>#
 
 - 🔭 I have developed the EdTech_MERN_PROJECT **Study Notion**
 
