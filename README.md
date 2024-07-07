@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Patidar !</h1>
-<h3 align="center">Driven final year CS student with a passion for Web Development MERN. Skilled in Java, React, NodeJS and DSA . Recently developed a online education plateform Study Notion for interacting and seamless learning . Seeking a challenging Software Engineer role to contribute to innovative projects and build impactful applications. Open to new opportunities.</h3>
+<h3 align="left">Driven final year CS student with a passion for Web Development MERN. Skilled in Java, React, NodeJS and DSA . Recently developed a online education plateform Study Notion for interacting and seamless learning . Seeking a challenging Software Engineer role to contribute to innovative projects and build impactful applications. Open to new opportunities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0413&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0413" /> </p>
+# <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0413&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0413" /> </p>
 
 # <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush0413" alt="ayush0413" /></a> </p>#
 
