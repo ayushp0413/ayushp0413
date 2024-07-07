@@ -1,25 +1,31 @@
 
 
 <h1 align="center">Hyy👋 , I'm Ayush Patidar !</h1>
-<programming">A prefinalist Computer Science Enginerring college student having love towards programming.</h3>
+<programming">Driven final year CS student with a passion for Web Development MERN. Skilled in Java, React, NodeJS and DSA . Recently developed a online education plateform Study Notion for interacting and seamless learning . Seeking a challenging Software Engineer role to contribute to innovative projects and build impactful applications. Open to new opportunities.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0413&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0413" /> </p>
 
-- 🔭 I’m currently working on **EdTech_MERN_PROJECT**
+- 🔭 Delevoped the **EdTech_MERN_PROJECT - STUDY_NOTION**
 
 - 🌱 Preparing for **Java Developer and FullStack Developer**
 
-- 💬 Ask me about **C , C++ , Java, Javascript, ReactJS, NodeJS, MongoDB**
+- 💬 Ask me about **C , C++ , Java, TailwindCSS, Javascript, ReactJS, NodeJS, MongoDB and DSA**
+
+-  🔭 Having a youtube channel for Educational Content.
 
 - 📫 How to reach me **ayushpatidar7441@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Links:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-patidar-62839024b/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="ayush" height="30" width="40" /></a>
+  
 <a href="https://www.leetcode.com/ayush patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush patidar" height="30" width="40" /></a>
+  
 <a href="https://auth.geeksforgeeks.org/user/ayushpatidar7441@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushpatidar7441@gmail.com" height="30" width="40" /></a>
 </p>
+
+<a href="https://www.youtube.com/channel/UCL0xg8nkgPbqI89ZQIJoN7A" target="blank"><img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="ayush" height="30" width="40" /></a>  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
